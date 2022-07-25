@@ -1,0 +1,26 @@
+*{
+    font-family: "Roberto";
+}
+html,
+body{
+    height: 100%;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #282828;
+}
+
+h1{
+    color:#ffffff;
+    font-size: 144px;
+    font-weight: 300;
+}
+
+h2{
+    color:#ffffff;
+    font-size: 50px;
+    
+}
